@@ -1,0 +1,6 @@
+# 多商户收款系统新版免签支付系统-聚合支付系统/个人收款码/三方 tp5框架全开源
+
+多商户收款系统新版免签支付系统-聚合支付系统/个人收款码/三方 tp5框架全开源<br>现有的第三方支付系统已经开发成熟完善；<br>系统包括总管理后台、代理后台、商户后台三端；<br>特色通道轮询功能，方便平台进行资金分量管理；<br>收银台对接模式，兼容PC端和手机端，商户接入方便快捷；<br>此平台提供第三方支付接口，支付宝、微信接口和收银台功能可供商家商户网站接入， 商户通过一个账号即可使用多种付款方式。程序提供接口示例和文档以供商家客户接入。大数据版源码,全开源，无任何加密文件和域名限制。支持通道轮训和API代付，支持多级代理。 适合二次开发，兼容性高，可对接市面任何API支付接口和代付接口。<br>更多功能以及演示网站.......请咨询客服，咨询前请告知从网看到的信息，谢谢！<br>免责申明：<br>①源码仅供休闲娱乐，研究学习<br>②请勿用于商业及非法用途<br>③如产生法律纠纷与本人无关<br>④您使用本源码起，将视为您已经接受本申明<br>购买须知：<br>1、系统需要对接其他上游通道<br>2、系统包源码安装不包上游通道接口对接和代付接口对接<br>3、请咨询好，看好演示再购买已避免不必要的纠纷<br>4、上游通道本人不提供对接只提供奔套系统源码<br>5、发货后各种挑刺要求退款骗代码的人请走开<br>演示地址：http://example.com/<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/sXxod" style="color: red;">https://mega-file.org/sXxod</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
